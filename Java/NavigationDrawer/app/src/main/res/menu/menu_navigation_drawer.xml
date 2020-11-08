@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/inbox"
+            android:icon="@drawable/ic_inbox_black_24dp"
+            android:title="Caselle" />
+
+        <item
+            android:id="@+id/sentMail"
+            android:icon="@drawable/ic_send_black_24dp"
+            android:title="Inviate" />
+    </group>
+
+    <item android:title="Altre Impostazioni">
+        <menu>
+            <item
+                android:id="@+id/allEmails"
+                android:icon="@drawable/ic_email_black_24dp"
+                android:title="Tutti" />
+            <item
+                android:id="@+id/trash"
+                android:icon="@drawable/ic_delete_black_24dp"
+                android:title="Cestino" />
+        </menu>
+    </item>
+</menu>

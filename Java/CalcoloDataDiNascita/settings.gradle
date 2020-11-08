@@ -1,0 +1,2 @@
+rootProject.name='Calcolo Data Di Nascita'
+include ':app'

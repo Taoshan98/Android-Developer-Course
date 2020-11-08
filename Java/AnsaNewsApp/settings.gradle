@@ -1,0 +1,2 @@
+rootProject.name='Ansa News App'
+include ':app'

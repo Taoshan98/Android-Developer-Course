@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tipi di layout</string>
+    <string name="verticale">Verticale</string>
+    <string name="layout">Layout</string>
+    <string name="orizzonatle">Orizzonatle</string>
+    <string name="layout">Layout</string>
+    <string name="ciao">Ciao</string>
+    <string name="ciao">Ciao</string>
+    <string name="griglia">Griglia</string>
+    <string name="table">table</string>
+    <string name="table">table</string>
+    <string name="layout">Layout</string>
+</resources>

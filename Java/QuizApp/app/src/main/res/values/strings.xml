@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="next">Next</string>
+
+    <string name="question_1">Qual è lo stato più piccolo d\'Europa?</string>
+    <string name="answer_1_1">Lichtenstein</string>
+    <string name="answer_2_1">Città del Vaticano</string>
+    <string name="answer_3_1">Principato di Monaco</string>
+    <string name="answer_4_1">San Marino</string>
+
+    <string name="question_2">Giulio Andreotti oltre è stato più volte presidente del Consiglio. Quante?</string>
+    <string name="answer_1_2">3</string>
+    <string name="answer_2_2">5</string>
+    <string name="answer_3_2">14</string>
+    <string name="answer_4_2">7</string>
+
+    <string name="question_3">Quale di questi mari non bagna l\'Italia?</string>
+    <string name="answer_1_3">Mar Tirreno</string>
+    <string name="answer_2_3">Mar Ionio</string>
+    <string name="answer_3_3">Mar Morto</string>
+    <string name="answer_4_3">Mar Mediterraneo</string>
+    <string name="sfida_terminata">Sfida Terminata!</string>
+
+
+</resources>

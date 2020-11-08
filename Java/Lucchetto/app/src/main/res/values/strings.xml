@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lucchetto</string>
+    <string name="insert_pin">Insert Pin</string>
+    <string name="enter">Accedi</string>
+    <string name="insertNewElement">Inserisci nuovi</string>
+    <string name="seeOldElements">Visualizza vecchi</string>
+    <string name="insert">Insert</string>
+    <string name="insert_a_new_element">Insert a new element</string>
+</resources>

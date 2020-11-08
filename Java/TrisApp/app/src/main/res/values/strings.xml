@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tris App</string>
+    <string name="benvenuto_in_tris_app">Benvenuto in \n Tris App!</string>
+    <string name="typeGame">Contro chi vuoi Giocare?</string>
+    <string name="cpu">CPU</string>
+    <string name="persona">Persona</string>
+    <string name="nome_player_2">Nome Player 2</string>
+    <string name="nome_player_1">Nome Player 1</string>
+    <string name="inizia_a_giocare">Inizia a giocare!</string>
+</resources>

@@ -1,0 +1,2 @@
+rootProject.name='Fragment To Activity App'
+include ':app'

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ColoredButtonsConstraintApp</string>
+    <string name="firstBox">First Box</string>
+    <string name="secondBox">Second Box</string>
+    <string name="fourthBox">Fourth Box</string>
+    <string name="thirdBox">Third Box</string>
+    <string name="fifthBox">Fifth Box</string>
+    <string name="howToPlay">How To Play?</string>
+    <string name="instruction">Touch The Views</string>
+</resources>

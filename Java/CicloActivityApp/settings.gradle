@@ -1,0 +1,2 @@
+rootProject.name='Ciclo Activity App'
+include ':app'
